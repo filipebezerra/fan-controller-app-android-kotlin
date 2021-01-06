@@ -1,0 +1,12 @@
+<resources>
+    <dimen name="text_view_padding">16dp</dimen>
+    <dimen name="default_margin">8dp</dimen>
+    <dimen name="margin_top">24dp</dimen>
+    <dimen name="fan_dimen">250dp</dimen>
+
+    <string name="fan_control">Fan Control</string>
+    <string name="fan_off">off</string>
+    <string name="fan_low">1</string>
+    <string name="fan_medium">2</string>
+    <string name="fan_high">3</string>
+</resources>
